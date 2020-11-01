@@ -34,11 +34,13 @@ Caranya, buat file teks baru dari menu **File -> New File**. Sesaat kemudian aka
 ![02_New File_Save as_Nama file.py](https://i.imgur.com/GsGDsQA.jpg)
 
 Lalu simpan file dengan cara pilih menu **File -> Save As** atau bisa juga dengan menekan tombol **CTRL+S**. Kita bisa menyimpan file ini sesuai lokasi directory tugas kita contoh **E:\labs_pemrograman1\ 02_Latihan-Tugas 5 & 6\ nama file 01_Latihan1.py**.
+
 ![03_Nama file python.py](https://i.imgur.com/ZVZEuOO.jpg)
 
 - **01_Latihan1_input Biodata**
 
 Tugas Latihan :
+
 ![00_Tugas Latihan1](https://i.imgur.com/afpvKfb.jpg)
 
 Kita ketik perintah python :
@@ -78,11 +80,11 @@ Tampilan setelah di Run module :
 
 ![03_Output](https://i.imgur.com/Ukw7Gjv.jpg)
 
-- Untuk mengambil Input menggunakan fungsi ``input()``
+ -Untuk mengambil Input menggunakan fungsi ``input()``
 
 input()->untuk mengambil nilai sesuai variablenya.
 
-- Untuk Output program di atas Python menggunakan fungsi ``print()``.
+ -Untuk Output program di atas Python menggunakan fungsi ``print()``.
 
 Secara default,kita dapat menambahakan spasi di antara variable.Akan tetapi kita juga bisa mengubahnya dengan menambahan code end,separator.
 
@@ -90,14 +92,15 @@ Secara default,kita dapat menambahakan spasi di antara variable.Akan tetapi kita
  
 ***objek->variable, sep ->separatornya, end ->akhir dari perintah**
 
-- Untuk Output Formating menggunakan fungsi ``str.format()``
+ -Untuk Output Formating menggunakan fungsi ``str.format()``
 
-- Kurung kurawal { } di gunakan sebagai placeholder.
-- Kita bisa menentukan urutan yang di cetak dengan menggunakan angka (tuple index)
+ -Kurung kurawal { } di gunakan sebagai placeholder.
+ -Kita bisa menentukan urutan yang di cetak dengan menggunakan angka (tuple index)
 
 - **03_Lab2_Konversi Nilai Variable**
 
 Tugas Lab2 :
+
 ![00_Latihan tugas Lab2](https://i.imgur.com/gWl2chL.jpg)
 
 Kita buat New file > Simpan sesuai nama file ( Seperti tutorial diatas ), lalu Kita ketik kode perintah python :
@@ -115,6 +118,7 @@ Untuk program di atas setelah di run terjadi masalah : ``TypeError : %d format a
 Catatan : Tanda %s untuk tipe data teks, %d untuk angka (desimal), dan %f untuk bilangan pecahan.
 
 Berikut kode program yang kita sudah rubah :
+
 ![03_Program Python_Konversi variable string](https://i.imgur.com/RNJrerM.jpg)
 
 
